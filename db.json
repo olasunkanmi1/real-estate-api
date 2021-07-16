@@ -1,0 +1,131 @@
+[
+    {
+        "id": 622996,
+        "title": "Nicely built 5bedroom Fully detached duplex",
+        "location": "Ikoyi",
+        "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, culpa. Culpa consectetur eos dolores. Quisquam modi eveniet earum. Odio qui expedita dolor officiis fuga quis a ex ipsam ut tempora?",
+        "price": "#130, 000, 000",
+        "by": "Listing by Olasunkanmi",
+        "buttonLabel": "View Details",
+        "image": "https://propertyfinder.netlify.app/static/media/1.02b0f609.jpg",
+        "bedroom": 5,
+        "bathroom": 5
+    },
+
+    {
+        "id": 622997,
+        "title": "Nicely built 6bedroom Semi detached duplex",
+        "location": "Ajah",
+        "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, culpa. Culpa consectetur eos dolores. Quisquam modi eveniet earum. Odio qui expedita dolor officiis fuga quis a ex ipsam ut tempora?",
+        "price": "#130, 000, 000",
+        "by": "Listing by Olasunkanmi",
+        "buttonLabel": "View Details",
+        "image": "https://propertyfinder.netlify.app/static/media/1.41b759d1.jpg",
+        "bedroom": 6,
+        "bathroom": 6
+    },
+
+    {
+        "id": 622998,
+        "title": "Massive 4bedroom Fully detached duplex",
+        "location": "Victoria Island",
+        "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, culpa. Culpa consectetur eos dolores. Quisquam modi eveniet earum. Odio qui expedita dolor officiis fuga quis a ex ipsam ut tempora?",
+        "price": "#85, 000, 000",
+        "by": "Listing by Olasunkanmi",
+        "buttonLabel": "View Details",
+        "image": "https://propertyfinder.netlify.app/static/media/1.22fce07c.jpg",
+        "bedroom": 4,
+        "bathroom": 4
+    },
+
+    {
+        "id": 622999,
+        "title": "Massive 5bedroom Semi detached duplex",
+        "location": "Lekki",
+        "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, culpa. Culpa consectetur eos dolores. Quisquam modi eveniet earum. Odio qui expedita dolor officiis fuga quis a ex ipsam ut tempora?",
+        "price": "#250, 000, 000",
+        "by":" Listing by Olasunkanmi",
+        "buttonLabel": "View Details",
+        "image": "https://propertyfinder.netlify.app/static/media/1.9c25d508.jpg",
+        "bedroom": 5,
+        "bathroom": 5
+    },
+
+    {
+        "id": 622991,
+        "title": "Newly Built 5bedrooms DETACHED DUPLEX with BQ",
+        "location": "Lekki",
+        "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, culpa. Culpa consectetur eos dolores. Quisquam modi eveniet earum. Odio qui expedita dolor officiis fuga quis a ex ipsam ut tempora?",
+        "price": "#170,000,000",
+        "by": "Listing by Olasunkanmi",
+        "buttonLabel": "View Details",
+        "image": "https://propertyfinder.netlify.app/static/media/1.fa5a9bd2.jpg",
+        "bedroom": 5,
+        "bathroom": 5
+    },
+
+    {
+        "id": 622992,
+        "title": "Brand New 2bedrooms Apartment",
+        "location": "Ajah",
+        "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, culpa. Culpa consectetur eos dolores. Quisquam modi eveniet earum. Odio qui expedita dolor officiis fuga quis a ex ipsam ut tempora?",
+        "price": "#30,000,000",
+        "by": "Listing by Olasunkanmi",
+        "buttonLabel": "View Details",
+        "image": "https://propertyfinder.netlify.app/static/media/1.f0b24216.jpg",
+        "bedroom": 2,
+        "bathroom": 2
+    },
+
+    {
+        "id": 622993,
+        "title": "Brand New 4bedrooms DETACHED DUPLEX with BQ",
+        "location": "Ajah",
+        "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, culpa. Culpa consectetur eos dolores. Quisquam modi eveniet earum. Odio qui expedita dolor officiis fuga quis a ex ipsam ut tempora?",
+        "price": "#65,000,000",
+        "by": "Listing by Olasunkanmi",
+        "buttonLabel": "View Details",
+        "image": "https://propertyfinder.netlify.app/static/media/1.a611875c.jpg",
+        "bedroom": 4,
+        "bathroom": 4
+    },
+
+    {
+        "id": 622994,
+        "title": "Newly Built 5bedrooms DETACHED DUPLEX with BQ",
+        "location": "Ajah",
+        "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, culpa. Culpa consectetur eos dolores. Quisquam modi eveniet earum. Odio qui expedita dolor officiis fuga quis a ex ipsam ut tempora?",
+        "price": "#140,000,000",
+        "by": "Listing by Olasunkanmi",
+        "buttonLabel": "View Details",
+        "image": "https://propertyfinder.netlify.app/static/media/1.b197dda7.jpg",
+        "bedroom": 5,
+        "bathroom": 5
+    },
+
+    {
+        "id": 622995,
+        "title": "Brand New 5bedrooms DETACHED DUPLEX with BQ",
+        "location": "Magodo",
+        "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, culpa. Culpa consectetur eos dolores. Quisquam modi eveniet earum. Odio qui expedita dolor officiis fuga quis a ex ipsam ut tempora?",
+        "price": "#160,000,000",
+        "by": "Listing by Olasunkanmi",
+        "buttonLabel": "View Details",
+        "image": "https://propertyfinder.netlify.app/static/media/1.a636abd3.jpg",
+        "bedroom": 5,
+        "bathroom": 5
+    },
+
+    {
+        "id": 622990,
+        "title": "Brand New 4bedrooms SEMI DETACHED DUPLEX",
+        "location": "Lekki",
+        "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, culpa. Culpa consectetur eos dolores. Quisquam modi eveniet earum. Odio qui expedita dolor officiis fuga quis a ex ipsam ut tempora?",
+        "price": "#160,000,000",
+        "by": "Listing by Olasunkanmi",
+        "buttonLabel": "View Details",
+        "image": "https://propertyfinder.netlify.app/static/media/1.f8125935.jpg",
+        "bedroom": 4,
+        "bathroom": 4
+    }
+]
