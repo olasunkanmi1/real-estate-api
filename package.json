@@ -1,0 +1,23 @@
+{
+  "name": "real-estate-api",
+  "version": "1.0.0",
+  "description": "My Real Estate Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olasunkanmi1/real-estate-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olasunkanmi1/real-estate-api/issues"
+  },
+  "homepage": "https://github.com/olasunkanmi1/real-estate-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
